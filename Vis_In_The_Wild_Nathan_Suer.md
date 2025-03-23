@@ -18,7 +18,7 @@ The intended users for this visalization are the general public, educators, and 
 ## Questions + Insights
 <!-- Questions+Insights: What questions can people ask+answer about this data using this visualization?  How can they find the answers with this tool?Show some example insights someone can arrive at using this tool -->
 
-[Image](Pictures/FunFact.png)
+![Fun Fact](Pictures/FunFact.png)
 ## Visual and Interaction Design Choices
 <!-- Comment on the visual and interaction design choices- are their choices effective? Are there any design choices that are not effective, and how could they be improved? 
 What are the limitations of this design- what can't someone do with this visualization -->
